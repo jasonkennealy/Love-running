@@ -198,5 +198,20 @@ background-repeat: no repeat;
 background-size: cover;
 width: 100%;
 overflow: hidden;
+}
 
+#times div {
+    color: #fafafa;
+    background-color: rgba(o, o o, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#times h2 {
+    color: #fafafa;
 }

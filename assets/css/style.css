@@ -325,6 +325,16 @@ margin: 0 auto;
 text-align: center;
 padding: 20px 0
           }
+
+          #photos {
+            column-count: 3;
+          }
+}
+
+@media screen and (max-width: 800px) {
+    #photos {
+            column-count: 2;
+        }
 }
 
 
